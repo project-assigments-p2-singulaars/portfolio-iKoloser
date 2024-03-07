@@ -168,3 +168,7 @@ a {
 .espacio{
   margin-bottom: 30%;
 }
+.espacioMenu{
+  padding-top: 20px; 
+  margin-top: -20px;
+}
