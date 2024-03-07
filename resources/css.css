@@ -1,0 +1,142 @@
+/* Video de fondo */
+#video-background {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -1000;
+  background-size: 100%;
+}
+
+/* Encabezado */
+header {
+  background: rgba(0, 0, 0, 0.7);
+  position: fixed;
+  z-index: 100;
+  margin-left: 35%;
+  border-radius: 15px;
+  opacity: 0.7;
+  top: 0;
+  margin-top: 2%;
+}
+
+/* Navegación */
+nav {
+  float: left;
+  margin-left: -3%;
+}
+
+nav ul {
+  list-style: none;
+  overflow: hidden;
+}
+
+nav ul li {
+  float: left;
+  font-family: "Inter";
+  font-size: 20px;
+  position: relative;
+}
+
+nav ul li a {
+  display: block;
+  padding: 20px;
+  color: #fff;
+  text-decoration: none;
+}
+
+nav ul li::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: #fff;
+  transition: width 0.3s ease;
+}
+
+nav ul li:hover::after {
+  width: 100%;
+}
+
+/* Página de inicio */
+.frontPage {
+  margin-top: 13%;
+  margin-bottom: 30%;
+}
+
+.frontPage h1 {
+  color: white;
+  opacity: 0.7;
+  font-family: "Inter";
+  text-align: center;
+  font-size: 400%;
+}
+
+.frontPage img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* Galería de imágenes */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin: 20px;
+}
+
+.gallery-item {
+  text-align: center;
+  margin-right: 1em;
+}
+
+.gallery img {
+  width: 20em;
+  height: 20em;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+  margin-bottom: 10px;
+  border-radius: 15px;
+  opacity: 0.85;
+}
+
+.gallery img:hover {
+  transform: scale(1.1);
+}
+
+.gallery-caption {
+  font-family: "Inter";
+  font-size: 2em;
+  color: white;
+  position: relative;
+  opacity: 0.85;
+}
+
+.gallery-caption::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background-color: #fff;
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  transition: width 0.3s ease;
+}
+
+.gallery-caption:hover::after {
+  width: 100%;
+}
+
+/* Elimina subrayado de enlaces */
+a {
+  text-decoration: none;
+}
