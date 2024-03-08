@@ -2,6 +2,8 @@ Portfolio de Jordi
 
 Este repositorio contiene los archivos HTML, CSS, imágenes y videos para mi página web de portfolio.
 
+
+[Link a mi proyecto en FIGMA](https://www.figma.com/file/Or7FutuyC77FCcUo1vZqMV/Untitled?type=design&node-id=0%3A1&mode=design&t=F6pb36DMBB4ZqWeX-1 "Figma Project")
 Contenido
 index.html: Este archivo contiene la estructura principal de mi página web, incluyendo la navegación, secciones de presentación, proyectos y contacto.
 Resources/: Este directorio contiene los recursos necesarios para mi página web, incluyendo imágenes, iconos y videos.
