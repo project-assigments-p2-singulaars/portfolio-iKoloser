@@ -28,12 +28,23 @@ CSS3
 
 
 Acerca de mí
+<br>
 Soy Jordi, un apasionado fullstack developer y diseñador UI/UX. Me encanta crear experiencias digitales intuitivas y atractivas que deleiten a los usuarios. Este portfolio refleja una parte de mi trabajo y mis habilidades como desarrollador y diseñador.
+<br>
 
 Contacto
+<br>
 Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología y diseño, ¡no dudes en contactarme! Puedes encontrarme en:
+<br>
 
 LinkedIn: @pepitoElHacker
+<br>
 Correo electrónico: pepitoElHacker@gmail.com
+<br>
 GitHub: @pepitoElHacker
+<br>
 ¡Gracias por visitar mi página web!
+<br>
+
+
+<img src="https://img.freepik.com/foto-gratis/amor-romance-perforado-corazon-papel_53876-87.jpg">
