@@ -4,7 +4,7 @@ Este repositorio contiene los archivos HTML, CSS, imágenes y videos para mi pá
 
 
 
-Contenido
+<h1>Contenido</h1>
 index.html: Este archivo contiene la estructura principal de mi página web, incluyendo la navegación, secciones de presentación, proyectos y contacto.
 <br>
 Resources/: Este directorio contiene los recursos necesarios para mi página web, incluyendo imágenes, iconos y videos.
@@ -47,4 +47,3 @@ GitHub: @pepitoElHacker
 <br>
 
 
-<img src="https://img.freepik.com/foto-gratis/amor-romance-perforado-corazon-papel_53876-87.jpg">
