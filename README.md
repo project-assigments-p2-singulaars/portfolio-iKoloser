@@ -4,8 +4,8 @@ Este repositorio contiene los archivos HTML, CSS, imágenes y videos para mi pá
 
 Contenido
 index.html: Este archivo contiene la estructura principal de mi página web, incluyendo la navegación, secciones de presentación, proyectos y contacto.
-resources/: Este directorio contiene los recursos necesarios para mi página web, incluyendo imágenes, iconos y videos.
-resources/css.css: Este archivo contiene los estilos CSS para dar formato y diseño a mi página web.
+Resources/: Este directorio contiene los recursos necesarios para mi página web, incluyendo imágenes, iconos y videos.
+Resources/css.css: Este archivo contiene los estilos CSS para dar formato y diseño a mi página web.
 README.md: Este archivo que estás leyendo ahora mismo, proporciona información sobre el proyecto y cómo utilizarlo.
 Uso
 Para ver mi página web en acción, simplemente abre el archivo index.html en tu navegador web favorito.
