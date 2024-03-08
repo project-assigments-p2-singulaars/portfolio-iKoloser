@@ -1,4 +1,4 @@
-Portfolio de Jordi
+<h1>Portfolio de Jordi</h1>
 
 Este repositorio contiene los archivos HTML, CSS, imágenes y videos para mi página web de portfolio.
 
@@ -19,7 +19,7 @@ Para ver mi página web en acción, simplemente abre el archivo index.html en tu
 <br>
 [Link a mi proyecto en FIGMA](https://www.figma.com/file/Or7FutuyC77FCcUo1vZqMV/Untitled?type=design&node-id=0%3A1&mode=design&t=F6pb36DMBB4ZqWeX-1 "Figma Project")
 <br>
-Tecnologías utilizadas
+<h1>Tecnologías utilizadas</h1>
 <br>
 HTML5
 <br>
@@ -27,12 +27,12 @@ CSS3
 <br>
 
 
-Acerca de mí
+<h1>Acerca de mí</h1>
 <br>
 Soy Jordi, un apasionado fullstack developer y diseñador UI/UX. Me encanta crear experiencias digitales intuitivas y atractivas que deleiten a los usuarios. Este portfolio refleja una parte de mi trabajo y mis habilidades como desarrollador y diseñador.
 <br>
 
-Contacto
+<h1>Contacto</h1>
 <br>
 Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología y diseño, ¡no dudes en contactarme! Puedes encontrarme en:
 <br>
