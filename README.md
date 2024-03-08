@@ -45,4 +45,4 @@ GitHub: @pepitoElHacker
 ¡Gracias por visitar mi página web!
 <br>
 
-
+<img src="resources/linkedin.png>
