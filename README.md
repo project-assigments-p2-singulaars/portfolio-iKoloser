@@ -18,7 +18,6 @@ Uso
 Para ver mi página web en acción, simplemente abre el archivo index.html en tu navegador web favorito.
 <br>
 [Link a mi proyecto en FIGMA](https://www.figma.com/file/Or7FutuyC77FCcUo1vZqMV/Untitled?type=design&node-id=0%3A1&mode=design&t=F6pb36DMBB4ZqWeX-1 "Figma Project")
-<br>
 <h1>Tecnologías utilizadas</h1>
 <br>
 HTML5
