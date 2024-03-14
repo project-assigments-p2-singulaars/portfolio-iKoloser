@@ -148,7 +148,7 @@ a {
 /* Otras reglas de estilo */
 
 .contactMe { 
-  background-color: rgba(31.890472769737244, 29.740038961172104, 137.26172178983688, 0.32);
+  background-color: white;
   width: 80vw;
   height: 50%;
   margin-left: 5%;
@@ -157,6 +157,11 @@ a {
   align-items: flex-start;
   border-radius: 15px;
   padding: 5%;
+  box-shadow:0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 
+  0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px
+   rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 
+   0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+   opacity: 80%;
 }
 
 .iconContact{
@@ -191,7 +196,7 @@ h2 {
     right: 50%;
     text-transform: uppercase;
     font-family: verdana;
-    font-size: 4vw;
+    font-size: 3vw;
     font-weight: 700;
     color: #f5f5f5;
     text-shadow: 1px 1px 1px #919191,
@@ -214,10 +219,13 @@ h2 {
 
 h3{
   font-size: 5vw;
-  color: white;
+  color: black;
   opacity: 0.7;
   font-family: "Inter";
   text-align: center;
+}
+h3:hover{
+  opacity: 1;
 }
 @media only screen and (max-width: 768px) {
   /* Encabezado */
@@ -255,4 +263,34 @@ h3{
 }
 .footerArrow:hover{
   filter: invert(80%);
+}
+.texto-container {
+  padding: 20px;
+  font-family: "Inter";
+  font-size: 24px;
+  height: 50px;
+  margin-bottom: 10vw;
+  
+
+}
+
+/* Efecto de escritura */
+.escribiendo {
+  animation: escribir 3s steps(40, end);
+}
+
+@keyframes escribir {
+  from {
+      width: 0;
+  }
+  to {
+      width: 100%;
+  }
+}
+.textoAuto{
+  color: white;
+}
+.chapa{
+  margin-left: 10vw;
+  margin-right: 10vw;
 }
