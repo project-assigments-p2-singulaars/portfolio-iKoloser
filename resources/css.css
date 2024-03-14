@@ -1,3 +1,7 @@
+
+html{
+  scroll-behavior: smooth;
+}
 /* Video de fondo */
 #video-background {
   position: fixed;
@@ -144,18 +148,20 @@ a {
 /* Otras reglas de estilo */
 
 .contactMe { 
-  background-color: rgba(31.890472769737244, 29.740038961172104, 137.26172178983688, 0.699999988079071);
-  width: 90%;
-  height: 45em;
+  background-color: rgba(31.890472769737244, 29.740038961172104, 137.26172178983688, 0.32);
+  width: 80vw;
+  height: 50%;
   margin-left: 5%;
   display: flex;
-  flex-direction: column; /* Cambia la dirección principal de la disposición a columna */
-  align-items: center; /* Centra los elementos horizontalmente */
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 15px;
+  padding: 5%;
 }
 
 .iconContact{
-  width: 15%;
-  height: 50%;
+  width: 10%;
+  height: 15%;
   margin-right: 4%;
 }
 
@@ -185,7 +191,7 @@ h2 {
     right: 50%;
     text-transform: uppercase;
     font-family: verdana;
-    font-size: 3em;
+    font-size: 4vw;
     font-weight: 700;
     color: #f5f5f5;
     text-shadow: 1px 1px 1px #919191,
@@ -202,4 +208,51 @@ h2 {
     1px 22px 10px rgba(16,16,16,0.2),
     1px 25px 35px rgba(16,16,16,0.2),
     1px 30px 60px rgba(16,16,16,0.4);
+    margin-right: 5vw;
+    margin-left: 5vw;
+}
+
+h3{
+  font-size: 5vw;
+  color: white;
+  opacity: 0.7;
+  font-family: "Inter";
+  text-align: center;
+}
+@media only screen and (max-width: 768px) {
+  /* Encabezado */
+  header {
+    margin-left: 0; /* Ajusta el margen izquierdo para centrarlo */
+    width: 100%; /* Ajusta el ancho al 100% */
+    text-align: center; /* Centra el texto */
+  }
+
+  /* Navegación */
+  nav ul {
+    padding: 0; /* Elimina el relleno de la lista */
+  }
+
+  nav ul li {
+    display: inline-block; /* Cambia la visualización a en línea */
+    margin: 0 10px; /* Añade espacio entre elementos */
+  }
+  .frontPage{
+    padding-top: 10vh;
+  }
+}
+.footer{
+  margin-top: 10%;
+}
+
+.footerArrow{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 5vw;
+  filter: invert(1);
+  margin-right: 2vw;
+  margin-bottom: 2vw
+}
+.footerArrow:hover{
+  filter: invert(80%);
 }
