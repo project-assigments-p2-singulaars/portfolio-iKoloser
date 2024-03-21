@@ -1,47 +1,12 @@
-<h1>Portfolio de Jordi</h1>
-
-Este repositorio contiene los archivos HTML, CSS, imágenes y videos para mi página web de portfolio.
-
-
-
-<h1>Contenido</h1>
-index.html: Este archivo contiene la estructura principal de mi página web, incluyendo la navegación, secciones de presentación, proyectos y contacto.
-<br>
-Resources/: Este directorio contiene los recursos necesarios para mi página web, incluyendo imágenes, iconos y videos.
-<br>
-Resources/css.css: Este archivo contiene los estilos CSS para dar formato y diseño a mi página web.
-<br>
-README.md: Este archivo que estás leyendo ahora mismo, proporciona información sobre el proyecto y cómo utilizarlo.
-<br>
-Uso
-<br>
-Para ver mi página web en acción, simplemente abre el archivo index.html en tu navegador web favorito.
-<br>
-<a href="https://www.figma.com/file/Or7FutuyC77FCcUo1vZqMV/Untitled?type=design&node-id=0%3A1&mode=design&t=F6pb36DMBB4ZqWeX-1">Mi proyecto en FIGMA</a>
+<h1>Toquen el DOM - Escuela de Música Online</h1>>
+Este es un proyecto para crear una página web para la escuela de música "Toquen el DOM", donde los usuarios pueden practicar con instrumentos musicales de forma interactiva. Se utilizan HTML, CSS y JavaScript, centrándose en manipular el DOM para lograr una experiencia de usuario dinámica.
+<h1>Descripción</h1>
+Toquen el DOM es una escuela de música online que busca ofrecer una experiencia interactiva a sus usuarios. La página web permite a los usuarios elegir entre diferentes instrumentos musicales, como piano, batería o guitarra, y practicar con ellos tanto con el ratón como con el teclado. Además, se hace énfasis en la creatividad en el diseño y en el orden, limpieza y semántica del código.
 <h1>Tecnologías utilizadas</h1>
-<br>
-HTML5
-<br>
-CSS3
-<br>
+HTML: Utilizado para estructurar el contenido de la página web.
+CSS: Empleado para dar estilo y diseño a la página, controlando aspectos visuales como colores, fuentes, margenes, etc...
+JavaScript: Agregado para añadir interactividad, permitiendo que los usuarios toquen instrumentos musicales y proporcionando funcionalidades dinámicas como reproducción de sonidos y animaciones.
 
-
-<h1>Acerca de mí</h1>
-<br>
-Soy Jordi, un apasionado fullstack developer y diseñador UI/UX. Me encanta crear experiencias digitales intuitivas y atractivas que deleiten a los usuarios. Este portfolio refleja una parte de mi trabajo y mis habilidades como desarrollador y diseñador.
-<br>
-
-<h1>Contacto</h1>
-<br>
-Si tienes alguna pregunta, sugerencia o simplemente quieres charlar sobre tecnología y diseño, ¡no dudes en contactarme! Puedes encontrarme en:
-<br>
-
-LinkedIn: @pepitoElHacker
-<br>
-Correo electrónico: pepitoElHacker@gmail.com
-<br>
-GitHub: @pepitoElHacker
-<br>
-¡Gracias por visitar mi página web!
-<br>
-
+<h1>¿Quiénes Somos?</h1>
+¡Hola! Somos Sandra, Oscar y Jordi, un equipo de desarrolladores full stack web apasionados por crear experiencias digitales increíbles.
+Juntos, combinamos nuestras habilidades y experiencia para llevar a cabo proyectos desafiantes y emocionantes, creando soluciones web innovadoras que superan las expectativas de nuestros clientes y deleitan a los usuarios finales. Estamos emocionados de colaborar contigo y convertir tus ideas en realidad. ¡Vamos a construir algo increíble juntos!
