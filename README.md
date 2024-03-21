@@ -8,5 +8,5 @@ Toquen el DOM es una escuela de música online que busca ofrecer una experiencia
 <h2>JavaScript:</h2> Agregado para añadir interactividad, permitiendo que los usuarios toquen instrumentos musicales y proporcionando funcionalidades dinámicas como reproducción de sonidos y animaciones.
 
 <h1>¿Quiénes Somos?</h1>
-¡Hola! Somos <h2>Sandra, Oscar y Jordi</h2>, un equipo de desarrolladores <h2>Full Stack Web</h2> apasionados por crear experiencias digitales increíbles.
+¡Hola! Somos <b>Sandra, Oscar y Jordi</b>, un equipo de desarrolladores <b>Full Stack Web</b> apasionados por crear experiencias digitales increíbles.
 Juntos, combinamos nuestras habilidades y experiencia para llevar a cabo proyectos desafiantes y emocionantes, creando soluciones web innovadoras que superan las expectativas de nuestros clientes y deleitan a los usuarios finales. Estamos emocionados de colaborar contigo y convertir tus ideas en realidad. ¡Vamos a construir algo increíble juntos!
