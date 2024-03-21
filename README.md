@@ -3,9 +3,9 @@ Este es un proyecto para crear una página web para la escuela de música "Toque
 <h1>Descripción</h1>
 Toquen el DOM es una escuela de música online que busca ofrecer una experiencia interactiva a sus usuarios. La página web permite a los usuarios elegir entre diferentes instrumentos musicales, como piano, batería o guitarra, y practicar con ellos tanto con el ratón como con el teclado. Además, se hace énfasis en la creatividad en el diseño y en el orden, limpieza y semántica del código.
 <h1>Tecnologías utilizadas</h1>
-HTML: Utilizado para estructurar el contenido de la página web.
-CSS: Empleado para dar estilo y diseño a la página, controlando aspectos visuales como colores, fuentes, margenes, etc...
-JavaScript: Agregado para añadir interactividad, permitiendo que los usuarios toquen instrumentos musicales y proporcionando funcionalidades dinámicas como reproducción de sonidos y animaciones.
+<h2>HTML:</h2> Utilizado para estructurar el contenido de la página web.
+<h2>CSS:</h2> Empleado para dar estilo y diseño a la página, controlando aspectos visuales como colores, fuentes, margenes, etc...
+<h2>JavaScript:</h2> Agregado para añadir interactividad, permitiendo que los usuarios toquen instrumentos musicales y proporcionando funcionalidades dinámicas como reproducción de sonidos y animaciones.
 
 <h1>¿Quiénes Somos?</h1>
 ¡Hola! Somos Sandra, Oscar y Jordi, un equipo de desarrolladores full stack web apasionados por crear experiencias digitales increíbles.
